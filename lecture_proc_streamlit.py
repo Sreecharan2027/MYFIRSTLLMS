@@ -1,4 +1,4 @@
-pip install nltk
+
 import streamlit as st
 import os
 import logging
