@@ -1,0 +1,12 @@
+way to format your request in PowerShell
+
+
+$headers = @{
+    "Content-Type" = "application/json"
+}
+
+$body = @{
+    query = "What are the benefits of large language models?"
+}
+
+Invoke-RestMethod -Uri http://localhost:5000/query -Method POST -Headers $headers -Body ($body | ConvertTo-Json)

@@ -1,0 +1,55 @@
+2024-06-15 12:40:29,799 - INFO - Use pytorch device_name: cpu
+2024-06-15 12:40:29,799 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-15 12:40:34,028 - INFO - Use pytorch device_name: cpu
+2024-06-15 12:40:34,028 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-15 12:40:38,412 - INFO - Use pytorch device_name: cpu
+2024-06-15 12:40:38,412 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-15 12:40:41,215 - INFO - Use pytorch device_name: cpu
+2024-06-15 12:40:41,215 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-15 12:40:43,878 - INFO - Use pytorch device_name: cpu
+2024-06-15 12:40:43,878 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-15 12:40:46,938 - INFO - Use pytorch device_name: cpu
+2024-06-15 12:40:46,938 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-15 14:00:27,115 - INFO - Use pytorch device_name: cpu
+2024-06-15 14:00:27,115 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-15 14:00:47,047 - INFO - Loaded data from capabilities.txt for class capabilities
+2024-06-15 14:00:53,498 - INFO - Loaded data from Harms I.txt for class Harms I
+2024-06-15 14:01:13,347 - INFO - Loaded data from Harms II.txt for class Harms II
+2024-06-15 14:01:28,093 - INFO - Loaded data from intro.txt for class intro
+2024-06-15 14:01:32,475 - INFO - Loaded data from table.txt for class table
+2024-06-15 14:01:32,492 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+2024-06-15 14:01:32,492 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-15 14:03:33,382 - INFO - Received query: What are the benefits of large language models?
+2024-06-15 14:03:33,516 - ERROR - Class CS324 not found: 'CS324'
+2024-06-15 14:03:33,516 - ERROR - Class CS324 not found: 'CS324'
+2024-06-15 14:03:33,516 - INFO - Generated answer: 
+2024-06-15 14:03:33,517 - INFO - 127.0.0.1 - - [15/Jun/2024 14:03:33] "POST /query HTTP/1.1" 200 -
+2024-06-15 15:26:11,853 - INFO - Use pytorch device_name: cpu
+2024-06-15 15:26:11,853 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-15 15:33:48,209 - INFO - Use pytorch device_name: cpu
+2024-06-15 15:33:48,210 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 09:53:59,139 - INFO - Use pytorch device_name: cpu
+2024-06-16 09:53:59,139 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 09:56:24,374 - INFO - Use pytorch device_name: cpu
+2024-06-16 09:56:24,374 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 09:59:02,043 - INFO - Use pytorch device_name: cpu
+2024-06-16 09:59:02,044 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 10:00:18,731 - INFO - Use pytorch device_name: cpu
+2024-06-16 10:00:18,731 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 10:01:32,071 - INFO - Use pytorch device_name: cpu
+2024-06-16 10:01:32,071 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 10:01:58,546 - INFO - Use pytorch device_name: cpu
+2024-06-16 10:01:58,546 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 10:03:50,154 - INFO - Use pytorch device_name: cpu
+2024-06-16 10:03:50,154 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 10:05:26,611 - INFO - Use pytorch device_name: cpu
+2024-06-16 10:05:26,611 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 10:07:47,985 - INFO - Use pytorch device_name: cpu
+2024-06-16 10:07:47,985 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 10:10:20,449 - INFO - Use pytorch device_name: cpu
+2024-06-16 10:10:20,449 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 10:29:19,236 - INFO - Use pytorch device_name: cpu
+2024-06-16 10:29:19,236 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
