@@ -112,7 +112,7 @@ st.title('MY FIRST LLM (Large language model)')
 
 # queries Input
 query = st.text_input('Enter your query here:')
-if query:
+if st.button('Ask'):
 
     query_vector = vectorize_query(query, model)
 

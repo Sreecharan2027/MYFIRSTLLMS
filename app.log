@@ -53,3 +53,17 @@
 2024-06-16 10:10:20,449 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
 2024-06-16 10:29:19,236 - INFO - Use pytorch device_name: cpu
 2024-06-16 10:29:19,236 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 11:44:53,684 - INFO - Use pytorch device_name: cpu
+2024-06-16 11:44:53,684 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 11:45:23,936 - WARNING - From C:\Users\mamid\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-06-16 11:45:44,562 - INFO - Use pytorch device_name: cpu
+2024-06-16 11:45:44,562 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 11:46:15,332 - INFO - Use pytorch device_name: cpu
+2024-06-16 11:46:15,332 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 11:47:53,351 - INFO - Use pytorch device_name: cpu
+2024-06-16 11:47:53,351 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-16 11:48:16,196 - WARNING - From C:\Users\mamid\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-06-16 11:48:36,981 - INFO - Use pytorch device_name: cpu
+2024-06-16 11:48:36,981 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
