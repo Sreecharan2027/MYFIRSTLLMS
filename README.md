@@ -12,25 +12,28 @@ This project explores the development of a  multi-class conversational agent cap
 The system leverages advanced Natural Language Processing (NLP) techniques, specifically employing the SentenceTransformer model for text vectorization and FAISS (Facebook AI Similarity Search) for efficient 
 retrieval of relevant information.
 
-
 ## Data Collection
 The lecture notes were gathered from the Stanford LLMs at https://stanford-cs324.github.io/winter2022/lectures/.
 
+## Streamlit
+The file lecture_proc_streamlit.py is build using streamlit framework.
+Run the file 
+
 ## Project directory detail 
 MYFIRSTLLMS/
-├── _pycache_/
+├── pycache/  
 ├── lecture_notes/
-│   ├── ≡ capabilities.txt
-│   ├── Harms I.txt
-│   ├── Harms II.txt
-│   ├── intro.txt
-│   └── table.txt
-├── app.log
-├── dataprocesing.ipynb
-├── ≡ format.txt
-├── lecture_notes.db
-├── lecture_notes.index
-├── lecture_proc_streamlit.py
-├── lecture_processing.py
-└── LLMnotebook.ipynb
+│   ├── capabilities.txt  
+│   ├── Harms I.txt       
+│   ├── Harms II.txt       
+│   ├── intro.txt          
+│   └── table.txt          
+├── app.log             
+├── dataprocesing.ipynb 
+├── format.txt          
+├── lecture_notes.db    
+├── lecture_notes.index   
+├── lecture_proc_streamlit.py  
+├── lecture_processing.py  
+└── LLMnotebook.ipynb   
 
