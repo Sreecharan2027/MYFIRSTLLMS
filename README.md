@@ -18,13 +18,14 @@ The lecture notes were gathered from the Stanford LLMs at https://stanford-cs324
 ## Streamlit
 The file lecture_proc_streamlit.py is build using streamlit framework.
 Can run the file by installing Streamlit 
-# pip install streamlit
-# streamlit lecture_proc_streamlit.py
+#pip install streamlit
+#streamlit lecture_proc_streamlit.py
 
 ## Project directory detail 
 MYFIRSTLLMS/
 ├── pycache/  
 ├── lecture_notes/
+
 │   ├── capabilities.txt  
 │   ├── Harms I.txt       
 │   ├── Harms II.txt       
