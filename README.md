@@ -17,7 +17,9 @@ The lecture notes were gathered from the Stanford LLMs at https://stanford-cs324
 
 ## Streamlit
 The file lecture_proc_streamlit.py is build using streamlit framework.
-Run the file 
+Can run the file by installing Streamlit 
+# pip install streamlit
+# streamlit lecture_proc_streamlit.py
 
 ## Project directory detail 
 MYFIRSTLLMS/
