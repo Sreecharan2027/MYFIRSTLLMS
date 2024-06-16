@@ -2,7 +2,7 @@
 
 This readme file contains project details and information about the MY FIRST LLM project. 
 
-## What is an llm(large language model) ?
+## What is an LLM (large language model) ?
 An LLM, or Large Language Model, refers to sophisticated AI systems designed to understand and generate human-like text. 
 These models are trained on vast amounts of data and can handle complex language tasks, such as translation, summarization, question answering, and text generation.
 
@@ -22,7 +22,9 @@ Can run the file by installing Streamlit
 #streamlit lecture_proc_streamlit.py
 
 ## Project directory detail 
+
 MYFIRSTLLMS/
+
 ├── pycache/  
 ├── lecture_notes/
 
