@@ -3,9 +3,9 @@ import streamlit as st
 import os
 import logging
 import numpy as np
-import faiss
 import nltk
 from sentence_transformers import SentenceTransformer
+import faiss
 # Set environment variables to suppress warnings
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 os.environ['HF_HUB_DISABLE_SYMLINKS_WARNING'] = '1'
