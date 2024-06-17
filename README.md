@@ -35,6 +35,7 @@ MYFIRSTLLMS/
   │   └── table.txt          
   ├── app.log             
   ├── dataprocesing.ipynb 
+  
   ├── format.txt          
   ├── lecture_notes.db    
   ├── lecture_notes.index   
