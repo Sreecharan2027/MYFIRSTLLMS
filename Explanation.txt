@@ -1,1 +1,36 @@
-This file explain about the file 
+This file explain about the file lecture_proc_streamlit.py How it works and the elements and fuctions used in it.
+
+
+#model = SentenceTransformer('all-MiniLM-L6-v2')
+The model used is  is part of the sentence-transformers library, which is designed for tasks involving sentence or text embeddings. 
+The model specified, all-MiniLM-L6-v2, is a pre-trained model optimized for generating embeddings of sentences, which can be used 
+for various natural language processing tasks such as semantic search, clustering, and paraphrase mining.
+
+Breakdown of all-MiniLM-L6-v2:
+    MiniLM: A lightweight model based on Microsoft's MiniLM architecture, which is designed to be efficient while maintaining high performance in language tasks.
+    L6: Indicates that this model has 6 layers, which is relatively shallow compared to larger models like BERT.
+    v2: Indicates the version of this specific model, with updates and improvements over earlier versions.
+
+
+
+Vectorization in the context of natural language processing (NLP) refers to the process of converting text data into numerical 
+representations (vectors) that can be processed by machine learning algorithms. These vectors capture the semantic meaning of the
+text in a numerical form.
+
+
+
+This function is designed to convert a list of text chunks into their corresponding vector representations using a given model.
+#vectorizing text chunks
+    def vectorize_text_chunks(text_chunks, model):
+    vectors = [model.encode(chunk) for chunk in text_chunks]
+    return np.array(vectors)
+
+
+This function converts a single query string into its vector representation using a given model.
+#query vectorization
+    def vectorize_query(query, model):
+    return model.encode([query])
+
+
+The MultiClassConversationalAgent1 class is designed to function as a conversational agent capable of handling multiple classes of data. 
+It enables adding data for different classes, searching within those classes, and retrieving relevant text chunks based on queries.
