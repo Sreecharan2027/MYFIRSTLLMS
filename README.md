@@ -25,20 +25,20 @@ Can run the file by installing Streamlit
 
 MYFIRSTLLMS/
 
-├── pycache/  
-├── lecture_notes/
-
-│   ├── capabilities.txt  
-│   ├── Harms I.txt       
-│   ├── Harms II.txt       
-│   ├── intro.txt          
-│   └── table.txt          
-├── app.log             
-├── dataprocesing.ipynb 
-├── format.txt          
-├── lecture_notes.db    
-├── lecture_notes.index   
-├── lecture_proc_streamlit.py  
-├── lecture_processing.py  
-└── LLMnotebook.ipynb   
+  ├── pycache/  
+  ├── lecture_notes/
+  
+  │   ├── capabilities.txt  
+  │   ├── Harms I.txt       
+  │   ├── Harms II.txt       
+  │   ├── intro.txt          
+  │   └── table.txt          
+  ├── app.log             
+  ├── dataprocesing.ipynb 
+  ├── format.txt          
+  ├── lecture_notes.db    
+  ├── lecture_notes.index   
+  ├── lecture_proc_streamlit.py  
+  ├── lecture_processing.py  
+  └── LLMnotebook.ipynb   
 
